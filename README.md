@@ -3,7 +3,7 @@ Hi 👋 I'm Ishwant, a Fullstack Developer at [FedEx](https://fedex.com). I have
 - Always tinkering with fun side projects like: 
     - **[Alertly](https://alertly.info)**: AI Visibility tracking;
     - **[Rerout](https://rerout.com)**: Memory & cost aware LLM Routing layer; 
-    - **[Milex](https://milex-rosy.vercel.app/)**: Get most out of your Credit Card Points;
+    - **[Milex](https://milex.ishwant.com/)**: Get most out of your Credit Card Points;
     - **[Promptbook](https://promptbook.info)**: Prompt library with team collaboration features
     & many more (reach out if you're interested!)
 - Lmk if you're interested in testing my projects and providing feedback
